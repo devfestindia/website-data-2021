@@ -1,0 +1,1024 @@
+[
+  {
+    "id": "101",
+    "name": "Ankit Sharma",
+    "company": {
+      "designation": "SDE III",
+      "name": "Cisco Systems"
+    },
+    "image": "ankit-sharma.jpg",
+    "bio": "SDE III @cisco | GDE for Angular | Microsoft MVP | Author | Speaker | Passionate Programmer",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ankitsharma-007/",
+      "twitter": "https://twitter.com/ankitsharma_007"
+    },
+    "sessionId": [1003],
+    "type":["Upskilling"],
+    "domain": "Web"
+  },
+  {
+    "id": "102",
+    "name": "Belal Khan",
+    "company": {
+      "designation": "Developer Advocate",
+      "name": "Stream"
+    },
+    "image": "belal-khan.jpg",
+    "bio": "Teacher, Android Developer ",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/probelalkhan/",
+      "twitter": "https://twitter.com/probelalkhan"
+    },
+    "sessionId": [1006],
+    "type":["Upskilling"],
+    "domain": "Mobile"
+  },
+  {
+    "id": "103",
+    "name": "Bhavesh Bhatt",
+    "company": {
+      "designation": "Data Scientist",
+      "name": "Colgate-Palmolive"
+    },
+    "image": "Bhavesh.jpg",
+    "bio": "I'm a Data Scientist & I enjoy solving problems. In my journey so far, I have had the honour of becoming a Google Developer Expert (GDE) in Machine Learning, GitHub Star & also being recognized as a 40 Under 40 Data Scientist.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/bhattbhavesh91/",
+      "twitter": "twitter.com/_bhaveshbhatt/"
+    },
+    "sessionId": [ 1011 ],
+    "type":["Upskilling"],
+    "domain": "AI/ML"
+  },
+  {
+    "id": "104",
+    "name": "Bhavika Kanani",
+    "company": {
+      "designation": "Director",
+      "name": "Softmax AI"
+    },
+    "image": "Bhavika.jpg",
+    "bio": "I have 3+ years of experience as a data scientist and has completed numerous projects within the field of AI/ ML during this tenure. I am a Google certified Tensorflow developer. I have done a Masters specialization in Machine Learning. My expertise lies in Python Programming, Natural Language Processing (NLP), computer vision, Machine learning, predictive modelling and data analysis. My work also includes fintech domains such as algo trading and forecasting stock market movements by analysing financial data. Other works include creating recommendation engines, image classification, face recognition, object detection, emotion analysis, video analytics, text analysis and chatbot development amongst others.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/bhavika-panara-kanani-52b91955/",
+      "twitter": "https://twitter.com/BhavikaKanani"
+    },
+    "sessionId": [ 1010 ],
+    "type":["Upskilling"],
+    "domain": "AI/ML"
+  },
+  {
+    "id": "105",
+    "name": "Bhavna Thacker",
+    "company": {
+      "designation": "",
+      "name": "Freelancer"
+    },
+    "image": "bhavna.jpg",
+    "bio": "Bhavna is a senior Android developer working as a Freelancer.She is also a WTM member and Tutorial Editor plus Video Instructor at raywenderlich.com. She has been developing Android apps since 2013. She likes to learn about the latest in the world of Android development and share the same with the developer community via her Youtube channel - Learn Android Development (https://www.youtube.com/c/learnandroiddevelopment).When she is not at work, you can find her in the kitchen listening to music and experimenting new dishes.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/bhavna-thacker-64956985/",
+      "twitter": "https://twitter.com/bhavnathacker14"
+    },
+    "sessionId": [1005],
+    "type":["Upskilling"],
+    "domain": "Mobile"
+  },
+  {
+    "id": "106",
+    "name": "Burhanuddin Rashid",
+    "company": {
+      "designation": "Senior Flutter Developer",
+      "name": "Rock"
+    },
+    "image": "mohammed.jpg",
+    "bio": "I am a Software Craftsman and Open-source enthusiast from India and Google Developer Expert in Flutter. Currently working remotely at Rock . I have been working on Android and Kotlin from the past 5 years and flutter for 3 years. I am movie freak and big-time Marvel and Game of Throne (I was :D) fan. I try to learn and share my knowledge by writing blogs or speaking at conferences.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/burhanuddin-rashid-a16959b1",
+      "twitter": "https://twitter.com/burhanrashid52"
+    },
+    "sessionId": [  1008  ],
+    "type":["Upskilling"],
+    "domain": "Flutter"
+  },
+  {
+    "id": "107",
+    "name": "Dharmesh Vaya",
+    "company": {
+      "designation": "Senior Cloud Architect",
+      "name": "GDE For Cloud/Payments"
+    },
+    "image": "Dharmesh.jpg",
+    "bio": "Dharmesh is a technologist known for his ability of developing enterprise applications on Cloud Platforms and fostering a spirit of innovation among teams, with a diverse experience around Banking, e-Commerce, Media/Entertainment to name a few. He is a Google Developer Expert for Google Cloud Platform & Payments while he is also actively managing the Google Cloud Developers Community, Mumbai.He speaks at various conferences and mentors Students, Young Professionals/Startups as well as local businesses on Cloud Technologies using the Google Cloud Platform and Open Source technologies.",
+    "social": {
+      "linkedin": "https://linkedin.com/in/dharmeshvaya",
+      "twitter": "https://twitter.com/@DRVaya"
+    },
+    "sessionId": [  1014  ],
+    "type":["Upskilling"],
+    "domain": "Cloud"
+  },
+  {
+    "id": "108",
+    "name": "Garima Mimani",
+    "company": {
+      "designation": "Web Ecosystem Consultant",
+      "name": "Google"
+    },
+    "image": "garima.jpg",
+    "bio": "I am Garima Mimani, I am a Web Ecosystems Consultant based out of New York. As a Web Ecosystem consultant our mission is to improve the health of the Web Ecosystem. I help out top partners to improve the quality of web experiences and incorporate new technologies into their website.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/garimamimani/",
+      "twitter": ""
+    },
+    "sessionId": [1002],
+    "type":["Upskilling"],
+    "domain": "Web"
+  },
+  {
+    "id": "109",
+    "name": "Hiren Dave",
+    "company": {
+      "designation": "Senior Technical Leader",
+      "name": "iBASEt India Software Pvt. Ltd."
+    },
+    "image": "hiren.jpg",
+    "bio": "Working as Senior Tech Lead at iBASEt India. Tech Author / Blogger / Speaker. Co-Organizer at GDG Ahmedabad, Laravel Live Ahmedabad",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/davehiren/",
+      "twitter": "https://twitter.com/hjdave"
+    },
+    "sessionId": [1003],
+    "type":["Upskilling"],
+    "domain": "Web"
+  },
+  {
+    "id": "110",
+    "name": "Jaldeep Asodariya",
+    "company": {
+      "designation": "Senior Mobile App Developer",
+      "name": "GoHighLevel"
+    },
+    "image": "jaldeep.jpg",
+    "bio": "Jaldeep Asodariya is an Sr. Mobile App Developer and working at GoHighLevel. As he developed many enormous emerging Android and Flutter Application so far and got client’s satisfaction through his Development work. He is an Event Organizer  of Google Developer Group (GDG), Ahmedabad. Jaldeep is very much interested in IoT (Internet of Things) and Android Things. He has good hands over to develop Google Assistant Applications as well as he has proficient knowledge in NodeJS.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jaldeepasodariya/",
+      "twitter": "https://twitter.com/JaldeepAsodariy"
+    },
+    "sessionId": [1007],
+    "type":["Upskilling"],
+    "domain": "Flutter"
+  },
+  {
+    "id": "111",
+    "name": "kamal shree S",
+    "company": {
+      "designation": "Developer Advocate",
+      "name": "Whatsupcoders"
+    },
+    "image": "kamal.png",
+    "bio": "I have 12 years of experience in Web Technologies, Android,  Flutter, HarmonyOS . I have worked for multinational firms in India, The Netherlands and USA. Google Developer Expert (Dart & Flutter) and Google Community Interviewer. Mentor at Google for Startups Accelerator program India. International Speaker, with my talks featured in Chicago Meetup, Devfest Michigan, Droidcon Toronto, KolkataKreate,360AnDev, Byteconf-flutter. I am Mentor @MentorCruise where I do provide mentorship in Software development, Flutter and building Open-source community. Youtuber (Whatsupcoders) on Flutter with more than 1.5 million views and 18K subscribers. Support Women TechMakers globally.Building Developer Communities in India for HarmonyOS from Huawei.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/kamalshree/",
+      "twitter": "https://twitter.com/whatsupcoders"
+    },
+    "sessionId": [1009],
+    "type":["Upskilling"],
+    "domain": "Flutter"
+  },
+  {
+    "id": "112",
+    "name": "Karan MV",
+    "company": {
+      "designation": "Senior Developer Relations Manager",
+      "name": "GitHub"
+    },
+    "image": "mvkaran.jpg",
+    "bio": "Karan leads developer relations for GitHub in India. He works with the open-source ecosystem and various other stakeholders across the country in helping develop the open-source culture in India. He also works closely with the developer community in helping them get the best out of the GitHub platform.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/mvkaran/",
+      "twitter": "https://twitter.com/mvkaran"
+    },
+    "sessionId": [  1018  ],
+    "type":["Upskilling"],
+    "domain": ""
+  },
+  {
+    "id": "113",
+    "name": "Kartik Derasari",
+    "company": {
+      "designation": "Application Engineer",
+      "name": "MediaAgility"
+    },
+    "image": "kartik.jpg",
+    "bio": "Kartik is a passionate developer who loves to explore web technologies and leverage them to build tools for the community. He works in the Application Development team at MediaAgility as a Full-Stack Engineer and contributes to GDG Cloud Ahmedabad as an Organiser. He has also been a Google DSC Lead and an ML Facilitator of Google AI's Explore ML Program. He extensively contributes to various community initiatives and, his area of interest is JavaScript (Vue, React), Web performance, Firebase and GCP.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/kartikderasari",
+      "twitter": "https://twitter.com/kartik_derasari"
+    },
+    "sessionId": [1001],
+    "type":["Upskilling"],
+    "domain": "Web"
+  },
+  {
+    "id": "114",
+    "name": "Manikandan Krishnamurthy",
+    "company": {
+      "designation": "GCP Architect",
+      "name": "TCS"
+    },
+    "image": "manikandan.jpg",
+    "bio": "I am Mani. By passion, I am volunteers in multiple tech communities from 2017 year. By profession, I am practicing as GCP Architect from 2017 year and practicing as solution analyst from 2009 year.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/manikandank276/",
+      "twitter": "https://twitter.com/manikandank276"
+    },
+    "sessionId": [  1014  ],
+    "type":["Upskilling"],
+    "domain": "Cloud"
+  },
+  {
+    "id": "115",
+    "name": "Monika Kumar Jethani",
+    "company": {
+      "designation": "Senior Software Engineer - Android",
+      "name": "GDE For Kotlin"
+    },
+    "image": "monika-jethani.png",
+    "bio": "Monika is an Android Engineer & one of the early adopters of Kotlin. She likes to talk about the latest trends in Kotlin & Android space as well as enables techies to become public speakers. She writes code, reads code and speaks about code. Last, but not the least, she is India's first female Kotlin GDE :)",
+    "social": {
+      "linkedin": "​https://www.linkedin.com/in/monika-kumar-jethani-944a2259/",
+      "twitter": "https://twitter.com/monika_jethani"
+    },
+    "sessionId": [1004],
+    "type":["Upskilling"],
+    "domain": "Mobile"
+  },
+  {
+    "id": "116",
+    "name": "Mounica Narkedamilli",
+    "company": {
+      "designation": "Systems Engineer (Digital)",
+      "name": "TATA consultancy services"
+    },
+    "image": "mounica.jpg",
+    "bio": "It all started in 2019 January. When I started attending the meetups. I still remember the first event I attended the GDG cloud Bangalore is Cloud Jam. After that, I attended every meetup of GDG communities. Then in August GDG cloud Bangalore organizers called me and asked would you be interested in being part of the organizing team. Without any second thought, I said YES. Because I liked the community concept and being an organizer I can help many people who need help like me. And the part I like most is networking, because we will come to know what community needs and in which way we can help our community best. Whenever I speak to my colleagues and I come to know that they are struggling with some things that the community can help with, I will try my best to connect them with concerned persons so that they can happily solve their problem. ",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/narkedamillimounica",
+      "twitter": "https://twitter.com/B_as_U_like"
+    },
+    "sessionId": [  1010  ],
+    "type":["Upskilling"],
+    "domain": "AI/ML"
+  },
+  {
+    "id": "117",
+    "name": "Nagin Eknath Narbag",
+    "company": {
+      "designation": "Sr. Big Data Engineer",
+      "name": "Quantiphi Inc."
+    },
+    "image": "nagin-narbag.jpg",
+    "bio": "I am a sedulous person who works efficiently both as an individual contributor as well as along with a team. I seek new challenges and try to think out-of-the-box while looking for efficient solutions of the GCP architecture.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nagin-narbag-668ab7108",
+      "twitter": "https://www.twitter.com/nagin_narbag"
+    },
+    "sessionId": [  1015  ],
+    "type":["Upskilling"],
+    "domain": "Cloud"
+  },
+  {
+    "id": "118",
+    "name": "Nirav Kothari",
+    "company": {
+      "designation": "Technical Architect",
+      "name": "Quantiphi Analytics Pvt. Ltd."
+    },
+    "image": "Nirav.jpg",
+    "bio": "Nirav has 17 years of multi-faceted experience across various technologies and domains. His core strength lies in designing the solutions for data engineering, data extraction, NLP, search engines, IoT and application integrations.In his voluntary experience, he is Google Developer Expert in cloud platform category and he is also a co-organizer of GDG Cloud Mumbai community. He is also a frequent speaker at conferences and likes to share his knowledge by writing technical blogs.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/iniravkothari/",
+      "twitter": "https://twitter.com/iNiravKothari"
+    },
+    "sessionId": [  1015  ],
+    "type":["Upskilling"],
+    "domain": "Cloud"
+  },
+  {
+    "id": "119",
+    "name": "Nivetha Maran",
+    "company": {
+      "designation": "Senior Software Engineer",
+      "name": "Fourkites"
+    },
+    "image": "nivetha-maran.jpg",
+    "bio": "She is a Senior Software Engineer who has a working experience of 4.5 years in the supply chain logistics, fin-tech industries. She is skilled in Angular, React/Redux ,JavaScript, Typescript and all things Frontend. Apart from her regular job, She is also an ambassador for Google Developers Group (GDG) and Womentechmakers chennai chapter . More info can be found at the link here- https://gdg.community.dev/gdg-chennai/International Technical speaker and have given talks in various conferences like Techknowday London , IWD India, Devfest UK, etc.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nivethamaran/",
+      "twitter": "https://twitter.com/NivethaMaran"
+    },
+    "sessionId": [1001],
+    "type":["Upskilling"],
+    "domain": "Web"
+  },
+  {
+    "id": "120",
+    "name": "Paresh Mayani",
+    "company": {
+      "designation": "Co-Founder/CEO",
+      "name": "SolGuruz"
+    },
+    "image": "paresh-mayani.jpg",
+    "bio": "Co-Founder / CEO at SolGuruz | Technopreneur | Engineering Quality Solution | Start-up Consultant | Mobile Development Consultant | Community Organiser @ GDG Ahmedabad. He has been exploring the horizon of software development industry for 12+ years. He has developed 50+ mobile applications, mentored hundreds of team members, have published 150+ blogs, holding 120,000+ reputation points over Stackoveflow. He has delivered 50+ talks and he has been to Nepal, Sri Lanka, USA, Turkey for delivering talks.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/pareshmayani/",
+      "twitter": "https://twitter.com/pareshmayani/"
+    },
+    "sessionId": [  1016  ],
+    "type":["Upskilling"],
+    "domain": ""
+  },
+  {
+    "id": "121",
+    "name": "Pawan Kumar",
+    "company": {
+      "designation": "Head of Engineering",
+      "name": "Unifrontier Technologies"
+    },
+    "image": "pawan-kumar.jpg",
+    "bio": "GDE - Flutter🐦 Firebase🔥 Dart 🎯, 👨🏻‍💻Founder of Codepur.dev & Creator of Velocityx.dev,⚡️ Building Frontier⚒️, YouTuber, Public Speaker & Entrepreneur 🗣",
+    "social": {
+      "linkedin": "https://linkedin.com/in/imthepk",
+      "twitter": "https://linkedin.com/in/imthepk"
+    },
+    "sessionId": [ 1009 ],
+    "type":["Upskilling"],
+    "domain": "Flutter"
+  },
+  {
+    "id": "122",
+    "name": "Pooja Bhaumik",
+    "company": {
+      "designation": "Mentor & Youtuber",
+      "name": "GDE For Flutter"
+    },
+    "image": "pooja-bhaumik.jpg",
+    "bio": "Pooja Bhaumik is an early Flutter adopter who turned into Google Developer Expert for Flutter. When she is not building products, she either enjoys mentoring folks to help them grow in their development careers or contributes to the tech community through blog posts, public speaking, Youtube videos, and open source contributions. She is also passionate about diversity & inclusion and has co-founded WomenDroid in Bengaluru, to support personal & professional growth objectives for women developers.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/poojab26/",
+      "twitter": "https://twitter.com/pblead26",
+      "github": "https://github.com/PoojaB26"
+    },
+    "sessionId": [1008, 1023],
+    "type":["Upskilling"],
+    "domain": "Flutter"
+  },
+  {
+    "id": "123",
+    "name": "Pritam Sahoo",
+    "company": {
+      "designation": "Partner Engineer",
+      "name": "Google"
+    },
+    "image": "pritam-sahoo.jpg",
+    "bio": "15 years of IT industry experience , with Specialization on Cloud (IaaS,PaaS), & pre-sales experience in various geographies and markets segments. Specialties: Google Cloud,AWS,Oracle Public Cloud, PaaS, IaaS, Hybrid Cloud,Smart Analytics, Oracle Technology related products,SAP ,DRaaS",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/pritam-sahoo-77a438a/",
+      "twitter": "https://twitter.com/pritamsahoo"
+    },
+    "sessionId": [  1013  ],
+    "type":["Upskilling"],
+    "domain": "Cloud"
+  },
+  {
+    "id": "124",
+    "name": "Rivu Chakraborty",
+    "company": {
+      "designation": "Sr Software Engineer (Android, L3)",
+      "name": "Gojek"
+    },
+    "image": "rivu.jpg",
+    "bio": "India's first Kotlin GDE, Android developer, author of multiple Kotlin books. Worked at Byju's and Paytm",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/rivuchk",
+      "twitter": "https://twitter.com/rivuchakraborty"
+    },
+    "sessionId": [1006],
+    "type":["Upskilling"],
+    "domain": "Mobile"
+  },
+  {
+    "id": "125",
+    "name": "Sayak Paul",
+    "company": {
+      "designation": "Machine Learning Engineer",
+      "name": "Carted"
+    },
+    "image": "sayak-paul.jpg",
+    "bio": "I work at Carted as a Machine Learning Engineer. I like to train neural networks for large-scale image recognition problems. My coordinates are at https://sayak.dev.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/sayak-paul/",
+      "twitter": "https://twitter.com/RisingSayak"
+    },
+    "sessionId": [  1012  ],
+    "type":["Upskilling"],
+    "domain": "AI/ML"
+  },
+  {
+    "id": "126",
+    "name": "Sharmistha Chatterjee",
+    "company": {
+      "designation": "Senior Manager Data Sciences",
+      "name": "Publicis Sapient"
+    },
+    "image": "sharmistha-chatterjee.jpg",
+    "bio": "Sharmistha Chatterjee is a Data Science Evangelist with 16+ years of professional experience in the field of Machine Learning (AI research and productionizing scaleable solutions) and Cloud applications. She has worked in both Fortune 500 companies, as well as in very early-stage startups. She is currently working as a Senior Manager of Data Sciences at Publicis Sapient where she leads the digital transformation of clients across industry verticals. She is an active blogger, an international speaker at various tech conferences, and 2X Google Developer Expert in Machine Learning and Google Cloud. She is also the Hackernoon Tech award winner for 2020, been listed as 40 under 40 Data Scientist by AIM and 21 tech trailblazers 2021, by Google.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/sharmistha-chatterjee-7a186310/",
+      "twitter": "https://twitter.com/sharmichat82"
+    },
+    "sessionId": [  1012  ],
+    "type":["Upskilling"],
+    "domain": "AI/ML"
+  },
+  {
+    "id": "127",
+    "name": "Shreyas Patil",
+    "company": {
+      "designation": "Android Developer",
+      "name": "Paytm Insider"
+    },
+    "image": "shreyas-patil.jpg",
+    "bio": "Shreyas is a 22-year-old Self-taught developer having primary interests in Android and Kotlin. He is a Google Developers Expert for Android. He love to build products, apps, helpful libraries, loves contributing to the community by writing blogs/articles and making open-source projects which can help fellow developers to learn things. Spends a lot of his development time contributing to open-source projects. He believes “Sharing is caring!”.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/patil-shreyas",
+      "twitter": "https://twitter.com/imShreyasPatil"
+    },
+    "sessionId": [1005],
+    "type":["Upskilling"],
+    "domain": "Mobile"
+  },
+  {
+    "id": "128",
+    "name": "Siddarth Kengadaran ",
+    "company": {
+      "designation": "Senior Consultant ",
+      "name": "ThoughtWorks "
+    },
+    "image": "siddarth.jpg",
+    "bio": "With around 8 years of experience as a Designer enabling teams to strategise and build products with conscious intention. I have worked with start-ups, small organisations, accelerators, and global software consultancies.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/siddarthkengadaran/",
+      "twitter": "https://twitter.com/s1dd4rth"
+    },
+    "sessionId": [ 1017 ],
+    "type":["Upskilling"],
+    "domain": ""
+  },
+  {
+    "id": "129",
+    "name": "Sriranjani Ramakrishnan",
+    "company": {
+      "designation": "GDE",
+      "name": "GDE For Machine Learning"
+    },
+    "image": "sriranjani.jpg",
+    "bio": "Sriranjani Ramakrishnan is a machine learning researcher and engineer, recognized as a Google Developer Expert (GDE) in Machine Learning.  With over four years of industrial experience, she has developed expertise in utilizing machine learning and deep learning techniques to find innovative solutions to real-world business problems. She holds a M.S. (by research) degree from  IIT Madras. Her areas of interest includes machine learning, deep learning, natural language processing and speech recognition.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/sriranjani-ramakrishnan-694307114",
+      "twitter": "https://twitter.com/sriran_ramkrish"
+    },
+    "sessionId": [  1011  ],
+    "type":["Upskilling"],
+    "domain": ""
+  },
+  {
+    "id": "130",
+    "name": "Sriyank Siddhartha",
+    "company": {
+      "designation": "Author",
+      "name": "Smartherd"
+    },
+    "image": "sriyank.jpg",
+    "bio": "Sriyank is a passionate Android Developer and freelance content creator. He loves to share his knowledge through his video courses on various EdTech platforms such as Pluralsight, Smartherd (Youtube Channel), Udemy, Internshala, and Packt Publishers. Seven years ago he joined GDG Bhubaneswar as a volunteer and later became an organizer. In his initial community days, he had travelled to various colleges all over Orissa to conduct free Android workshops on behalf of GDG Bhubaneswar. He always finds a way to engage himself with the community work in any possible way to help developers and students grow and evolve themselves. He believes that free education is going to be the future of our nation because of which he uploads a lot of software development courses on his Youtube channel Smartherd. ",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/sriyank/",
+      "twitter": "https://twitter.com/sriyanksid/"
+    },
+    "sessionId": [1004],
+    "type":["Upskilling", "Networking"],
+    "domain": "Mobile"
+  },
+  {
+    "id": "131",
+    "name": "Pranay Nanda",
+    "company": {
+      "designation": "Cloud Lead",
+      "name": "Xebia"
+    },
+    "image": "Pranay.jpg",
+    "bio": "I am a Google Cloud Certified professional with extensive experience in driving end-to-end cloud pre-sales cycles and leading teams through enterprise-grade cloud migrations. I've had vast hands-on experience in building cloud-native, robust and resilient production-grade IT infrastructure.",
+    "social": {
+      "linkedin": "https://linkedIn.com/in/ipranaynanda",
+      "twitter": "https://twitter.com/ipranaynanda"
+    },
+    "sessionId": [  1022  ],
+    "type":["Networking"],
+    "domain": "Cloud"
+  },
+  {
+    "id": "132",
+    "name": "Romin Irani",
+    "company": {
+      "designation": "Developer Advocate",
+      "name": "Google"
+    },
+    "image": "RominIrani.jpg",
+    "bio": "My passion is to help developers succeed. I enjoy learning, writing and talking about technologies that matter to developers. (Web: http://www.rominirani.com,",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/iromin/",
+      "twitter": "https://twitter.com/iRomin"
+    },
+    "sessionId": [ 1022   ],
+    "type":["Networking"],
+    "domain": "Cloud"
+  },
+  {
+    "id": "133",
+    "name": "Rushabh Vasa",
+    "company": {
+      "designation": "Co-founder",
+      "name": "Agrahyah Technologies Pvt Ltd."
+    },
+    "image": "Rushabh-Vasa.jpg",
+    "bio": "Rushabh Vasa is a serial entrepreneur by profession. Rushabh is currently Co-founder and CTO of Agrahyah Technologies and aawaz.com. Agrahyah builds AI enabled Voice tech solutions and Aawaz.com, which is the largest podcast network in Indian languages. Rushabh is listed as Google Developer Expert for Cloud Technology and Mentor for Google for Startups. Beyond technology, Rushabh believes in building a better tomorrow, he does this by being involved in communities including GBG Mumbai, Rotary Club, Green India and also serves as Director at Ruggedian, a Fitness and Wellness Startup.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/rushabhvasa/",
+      "twitter": "https://twitter.com/rushabh69"
+    },
+    "sessionId": [  1022  ],
+    "type":["Networking"],
+    "domain": "Cloud"
+  },
+  {
+    "id": "134",
+    "name": "Sathish VJ",
+    "company": {
+      "designation": "Independent Architect, Trainer, Investor",
+      "name": "GDE For Cloud"
+    },
+    "image": "Sathish.jpg",
+    "bio": "Sathish VJ is an independent software architect, investor, and Google Cloud Authorized trainer. He also runs a YouTube channel, youtube.com/AwesomeGCP, where he teaches people how to apply Google Cloud and also prepare for the certifications.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/sathishvj",
+      "twitter": "https://twitter.com/srashtisj"
+    },
+    "sessionId": [  1022  ],
+    "type":["Networking"],
+    "domain": "Cloud"
+  },
+  {
+    "id": "135",
+    "name": "Vijeta Pai",
+    "company": {
+      "designation": "Founder",
+      "name": "Cloud Demystified"
+    },
+    "image": "Vijeta.jpg",
+    "bio": "Vijeta is a GCP Certified and Accredited Technical Evangelist and Program Manager, with experience implementing strategies and training globally to provide a competitive edge to organizations in diverse, evolving customer environments. She's the creator of Cloud Demystified, and working on her passion to demystify Cloud technologies using web comics, animated videos, and infographics. She has given presentations, talks, workshops and webinars on Cloud technologies at various colleges, technical conferences, Google Developer Group meetups, and TEDx events. A storyteller and technical enthusiast by heart, she wants to use her experience to grow, give back to the profession and make technology accessible, fast, scalable and reliable.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/vijetapai/",
+      "twitter": "https://twitter.com/vijetapai"
+    },
+    "sessionId": [ 1022  ],
+    "type":["Networking"],
+    "domain": "Cloud"
+  },
+  {
+    "id": "136",
+    "name": "Debasmita Sarkar",
+    "company": {
+      "designation": "Senior Software Engineer",
+      "name": "Dkatalis Labs, Consultant"
+    },
+    "image": "debasmita.jpg",
+    "bio": "A passionate programmer, quick learner and creative front end developer, proficient in thriving in start up environment.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/debasmita-s-22296bb2/",
+      "twitter": "https://twitter.com/The__Debo"
+    },
+    "sessionId": [  1023  ],
+    "type":["Networking"],
+    "domain": "Flutter"
+  },
+  {
+    "id": "137",
+    "name": "Devan Joshi",
+    "company": {
+      "designation": "GetStream.io",
+      "name": "Flutter Developer"
+    },
+    "image": "Deven.jpg",
+    "bio": "Android and Flutter (Cross-platform) developer. Freelancer, blogger and speaker. Dart, Java, Kotlin, Python.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/deven-joshi-815725b8/",
+      "twitter": "https://twitter.com/DevenJoshi7"
+    },
+    "sessionId": [ 1023 ],
+    "type":["Networking"],
+    "domain": "Flutter"
+  },
+  {
+    "id": "138",
+    "name": "Dhrumil Shah",
+    "company": {
+      "designation": "Senior Mobile Application Developer",
+      "name": "High Level"
+    },
+    "image": "Dhrumil.jpg",
+    "bio": "Experienced Community Organizer with a demonstrated history of working in the information technology and services industry. Expert in Flutter. Strong professional with a Master of Engineering (M.E.) focused in Wireless & Mobile Computing from GTU P.G.School and have a PG Diploma degree in Intellectual Property Rights(IPR).",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/dhuma1981/",
+      "twitter": "https://twitter.com/dhuma1981",
+      "github": "https://github.com/dhuma1981"
+    },
+    "sessionId": [  1023  ],
+    "type":["Networking"],
+    "domain": "Flutter"
+  },
+  {
+    "id": "140",
+    "name": "Anitha Vijaykumar",
+    "company": {
+      "designation": "Technical Program Manager",
+      "name": "Google"
+    },
+    "image": "anitha-vijaykumar.jpg",
+    "bio": "",
+    "social": {
+      "linkedin":"https://www.linkedin.com/in/anitha-vijayakumar-275506/",
+      "twitter": "https://twitter.com/AnithaVijayaku3"
+    },
+    "sessionId": [  1021  ],
+    "type":["Networking"],
+    "domain": "ML / AI"
+  },
+  {
+    "id": "141",
+    "name": "Rajesh Shreedhar Bhat",
+    "company": {
+      "designation": "Senior Data Scientist",
+      "name": "Walmart"
+    },
+    "image": "Rajesh_Shreedhar_Bhat.jpg",
+    "bio": "Rajesh Shreedhar Bhat is working as a Sr. Data Scientist at Walmart Labs, Bangalore with a total experience of 5 years in the data science domain. He completed his Bachelor’s degree from PESIT, Bangalore, and master's degree in CS from Arizona State University. Rajesh has a couple of research publications in the field of NLP and Vision, which are published in conferences such as CIKM, CoNLL, ASONAM, ECML PKDD, etc, and has published several blogs in Towards Data Science & Weights and Biases being part of the author program. He is a Kaggle Expert with 3 silver and 2 bronze medals and has been a speaker at various national and international conferences which include ODSC, Data/Spark AI Summit, Seoul AI Summit, Silicon Valley AI Summit, Data Hack Summit, etc. Rajesh has also conducted ML & DL workshops in GE Healthcare, IIIT Kancheepuram, and many other Colleges/Universities.",
+    "social": {
+      "linkedin":" https://www.linkedin.com/in/rajeshshreedhar/",
+      "twitter": "https://twitter.com/rajesh_s_bhat"
+    },
+    "sessionId": [  1021  ],
+    "type":["Networking"],
+    "domain": "ML / AI"
+  },
+  {
+    "id": "142",
+    "name": "Savvy Jain",
+    "company": {
+      "designation": "Founder & CEO",
+      "name": "Cofiato"
+    },
+    "image": "Savvy.jpg",
+    "bio": "Savvy loves data and everything around it. She used to be a data scientist and has experience working in various domains. She is currently CEO and Founder of Cofiato, which is a Hardware Intelligence firm. Her second love is community evangelism. She's associated with many technical and networking communities like GDG, GCDC, WTM, Linkedin Local, etc. She is also Women in Data Science Regional Ambassador. She likes innovation, creativity, and coffee.",
+    "social": {
+      "linkedin":"https://www.linkedin.com/in/savvyjain/",
+      "twitter": "https://twitter.com/Savvyjain"
+    },
+    "sessionId": [  1021  ],
+    "type":["Networking"],
+    "domain": "ML / AI"
+  },
+  {
+    "id": "143",
+    "name": "Shweta Bhatt",
+    "company": {
+      "designation": "Applied Scientist II",
+      "name": "Jupiter"
+    },
+    "image": "Shweta.jpg",
+    "bio": "Shweta works as an Applied Scientist at Jupiter, an Indian Neobanking app built to help users build healthy financial habits. She’s also an ML GDE and has over 4 years of experience building AI first products such as conversational assistants, semantic search engines, information extraction and recommendation systems. She has worked in Fintech, Ecommerce, Biomedical and Social Media domains. She is passionate about AI and sharing her knowledge with the community. She loves to travelling, playing board games and jamming to some cool tunes.",
+    "social": {
+      "linkedin":"https://www.linkedin.com/in/shweta-bhatt-1a930b12/",
+      "twitter": "https://twitter.com/shweta_bhatt8"
+    },
+    "sessionId": [  1021  ],
+    "type":["Networking"],
+    "domain": "ML / AI"
+  },
+  {
+    "id": "144",
+    "name": "Usha Rengaraju",
+    "company": {
+      "designation": "Principal Data Scientist",
+      "name": "Infinite Sum Modelling"
+    },
+    "image": "usha.png",
+    "bio": "I am a unicorn data scientist with strong foundations in Economics, Finance , Business Foundations ,Business Analytics and Psychology. I specialize in Probabilistic Graphical Models. I have over 7 years of industry experience.I also possess great public speaking and writing skills.I am a champion athlete and have represented my state in National games twice. Open to new opportunities. Organizer of TensorFlow User Group Mysore and GDG Mysore",
+    "social": {
+      "linkedin":"https://www.linkedin.com/in/usha-rengaraju-b570b7a2/",
+      "twitter": "https://twitter.com/URengaraju"
+    },
+    "sessionId": [  1021  ],
+    "type":["Networking"],
+    "domain": "ML / AI"
+  },
+  {
+    "id": "145",
+    "name": "Akanshi Srivastava",
+    "company": {
+      "designation": "Software Engineer - UXE",
+      "name": "Gojek"
+    },
+    "image": "Akanshi.jpg",
+    "bio": "Akanshi is an android developer & a UI/UX enthusiast. She is currently working at Gojek as a Software Development Engineer (Android) in the UX Engineering team. She is active in communities as a speaker, mentor, organizer, contributor and a participant. She enjoys participating in hackathons, read and learn about tools and developments in the field of UI/UX, contribute on stack overflow and listening to good music. She also likes to write about her tech and non-tech thoughts and loves animals! To know more, you can visit akanshi.com",
+    "social": {
+      "linkedin":"https://www.linkedin.com/in/akanshi32/",
+      "twitter": "https://twitter.com/akanshi_s"
+    },
+    "sessionId": [  1020  ],
+    "type":["Networking"],
+    "domain": "Mobile"
+  },
+  {
+    "id": "146",
+    "name": "Himanshu Singh",
+    "company": {
+      "designation": "Android Engineer",
+      "name": "Clue"
+    },
+    "image": "HimanshuSingh.png",
+    "bio": "Himanshu is a Full Stack Kotlin engineer and works as Android Engineer on the professional side. He is also a Google developer expert in Android and Kotlin. He is an active blogger, speaker, and content creator. He loves to mentor and share his knowledge to help people move into the development world!",
+    "social": {
+      "linkedin":"https://www.linkedin.com/in/himanshoe-singh/",
+      "twitter": "https://twitter.com/hi_man_shoe"
+    },
+    "sessionId": [  1020  ],
+    "type":["Networking"],
+    "domain": "Mobile"
+  },
+  {
+    "id": "147",
+    "name": "Niharika Arora",
+    "company": {
+      "designation": "Developer Relations Engineer, Android & Google Play",
+      "name": "Google"
+    },
+    "image": "Niharika.jpg",
+    "bio": "An Android engineer who is passionate about technology, design and architecture. I am one of the contributors for Government of India's Contact tracing App 'AarogyaSetu'. I love to share my learnings through blogging, open-source contributions and public speaking. In my free time, I love to mentor people to help them learn and grow. I",
+    "social": {
+      "linkedin":" https://www.linkedin.com/in/thedroidlady/",
+      "twitter": "https://twitter.com/theDroidLady"
+    },
+    "sessionId": [  1020  ],
+    "type":["Networking"],
+    "domain": "Mobile"
+  },
+  {
+    "id": "148",
+    "name": "Sagar Viradiya",
+    "company": {
+      "designation": "Senior Android Engineer",
+      "name": "Delivery Hero"
+    },
+    "image": "Sagar.jpg",
+    "bio": "Self-taught android dev. Love to explore new things, open source my experiments and contribute to open source community.",
+    "social": {
+      "linkedin":"https://www.linkedin.com/in/sagarviradiya/",
+      "twitter": "https://twitter.com/viradiya_sagar"
+    },
+    "sessionId": [  1020  ],
+    "type":["Networking"],
+    "domain": "Mobile"
+  },
+  {
+    "id": "150",
+    "name": "Ashok Vishwakarma",
+    "company": {
+      "designation": "Vice President Of Engineering",
+      "name": "Dhani"
+    },
+    "image": "Ashok.jpg",
+    "bio": "Driving technology for Products used by Millions of people • 13+ Years of Experience • Organizer @itsAllAboutWeb • @GoogleDevExpert • #Writes at @Medium • #Entrepreneur • #TechEnthusiast • #Speaker",
+    "social": {
+      "linkedin":"https://www.linkedin.com/in/avishwakarmaa/",
+      "twitter": "https://twitter.com/_avishwakarma"
+    },
+    "sessionId": [  1019  ],
+    "type":["Networking"],
+    "domain": "Web"
+  },
+  {
+    "id": "151",
+    "name": "Santosh Yadav",
+    "company": {
+      "designation": "Angular GDE, GitHub Star Auth0 Ambassador",
+      "name": "Software Consultant"
+    },
+    "image": "Santosh.jpg",
+    "bio": "Santosh is a GDE for Angular and loves contributing to Angular and NgRx. He works as a software consultant and writes for indepth.dev and mentors for DotNetTricks. He is also the author of the Ngx-Builders package and part of NestJsAddOns core Team. He is also running Tech Talks with Santosh talk show, where he invites the industry experts to discuss different technologies.",
+    "social": {
+      "linkedin":"https://www.linkedin.com/in/santoshyadavdev/",
+      "twitter": "https://twitter.com/SantoshYadavDev"
+    },
+    "sessionId": [  1019  ],
+    "type":["Networking"],
+    "domain": "Web"
+  },
+  {
+    "id": "152",
+    "name": "Saurabh Rajpal",
+    "company": {
+      "designation": "Senior Web & Search Ecosystem Consultant",
+      "name": "Google"
+    },
+    "image": "saurabh.jpg",
+    "bio": "Seasoned s/w professional with nearly a decade of diverse experience across people / project / program management, technical sales consulting and full stack software development. Specialize in: (a) Scaling and evengelizing product adoption & feedback driven development (b) Tech consultation on web stories, short form videos, mWeb performance and advance capabilities (c) Building full stack apps for web & android; (d) Designing scalable back-end applications including micro-services, data related solutions and scripting over cloud providers like AWS & GCP. Established tech speaker for web, cloud, tensorflow, firebase and modern application development!",
+    "social": {
+      "linkedin":"https://www.linkedin.com/in/imsaurabhrajpal",
+      "twitter": "https://twitter.com/imsaurabhrajpal"
+    },
+    "sessionId": [ 1019 ],
+    "type":["Networking"],
+    "domain": "Web"
+  },
+  {
+    "id": "153",
+    "name": "Srashti Jain",
+    "company": {
+      "designation": "Founder",
+      "name": "TechVraksh"
+    },
+    "image": "Srashti.jpg",
+    "bio": "Angular GDE and Microsoft MVP Have more than 5 years of experience in application development. Have knowledge about .NET, SQL Server, Power BI Embedded, Azure, Angular. Co-organiser Indore Technical Community (#ngIndore) & All About Web",
+    "social": {
+      "linkedin":"https://www.linkedin.com/in/srashtisj/",
+      "twitter": "https://twitter.com/srashtisj"
+    },
+    "sessionId": [  1019  ],
+    "type":["Networking"],
+    "domain": "Web"
+  },
+  {
+    "id": "154",
+    "name": "Vrijraj Singh",
+    "company": {
+      "designation": "GDE For Firebase & Web",
+      "name": "GDG Jalandhar"
+    },
+    "image": "Vrijraj.jpg",
+    "bio": "Vrijraj is a front-end developer by profession and a community champion by passion. He is an organizer for GDG Jalandhar and a Google Developers Expert for Firebase and Web Technologies. He has given 100+ talks and workshops for communities over the past 5 years. His areas of expertise are around Web, Firebase, Google Cloud Platform, and UI/UX Design. He is always eager to learn new technologies and develop solutions based on them. He enjoys mentoring people and nurturing communities. Outside work, he is a foodie and enjoys watching YouTube videos.",
+    "social": {
+      "linkedin":"https://www.linkedin.com/in/vrijrajsingh/",
+      "twitter": "https://twitter.com/VrijrajSingh"
+    },
+    "sessionId": [  1019  ],
+    "type":["Networking"],
+    "domain": ""
+  },
+  {
+    "id": "155",
+    "name": "Anuradha Kumari",
+    "company": {
+      "designation": "",
+      "name": "GDE For Web"
+    },
+    "image": "Anuradha.png",
+    "bio": "Anuradha Kumari is a Frontend Developer from India. She is passionate about exploring new technologies and sharing knowledge through tech articles and talks. As an accessibility advocate, she aims to spread awareness and empower the community towards achieving the common goal of inclusion through technology. When she is not coding, she loves traveling, exploring museums, reading books, and sketching.",
+    "social": {
+      "linkedin":"https://www.linkedin.com/in/anuradha15/",
+      "twitter": "https://www.twitter.com/miracle_404"
+    },
+    "sessionId": [1002],
+    "type":["Upskilling"],
+    "domain": "Web"
+  },
+  {
+    "id": "159",
+    "name": "Nikita Gandhi",
+    "company": {
+      "designation": "Community Manager",
+      "name": "Google"
+    },
+    "image": "nikita.jpg",
+    "bio": "My name is Nikita and I am a part of the Developer Relations team at Google, managing GDG, GDSC Program in India. I also manage Flutter communities in India and speak and write blogs on Flutter with my passion towards Flutter. I enjoy talking to developers, traveling and eating street food. After the pandemic, I hope I can connect with developers through in person events and share some local food together! :)",
+    "social": {
+      "linkedin":"https://www.linkedin.com/in/nikita-gandhi01/",
+      "twitter": "https://www.twitter.com/Nikkitagandhi"
+    },
+    "sessionId": [1007],
+    "type":["Upskilling"],
+    "domain": "Flutter"
+  },
+  {
+    "id": "160",
+    "name": "Priyanka Vergadia",
+    "company": {
+      "designation": "Developer Advocate",
+      "name": "Google"
+    },
+    "image": "priyanka.jpg",
+    "bio": "Priyanka Vergadia is Developer Advocate at Google where she  creates content for developers to learn Google Cloud! She has created over 300 videos, articles, podcasts, courses and tutorials that have helped developers learn Google Cloud fundamentals, solve their challenges and pass certifications! She is the write and creator of #GCPSketchnote series https://github.com/priyankavergadia/GCPSketchnote. She is always happy to connect and answer questions on LinkedIn and Twitter @pvergadia",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/priyankavergadia",
+      "twitter": "https://twitter.com/pvergadia"
+    },
+    "sessionId": [1013],
+    "type":["Upskilling"],
+    "domain": "Cloud"
+  },
+  {
+    "id": "161",
+    "name": "Luisa Huang",
+    "company": {
+      "designation": "Recruiterp",
+      "name": "Google"
+    },
+    "image": "Luisa.jpg",
+    "bio": "Luisa has started her journey with Google in the Tokyo recruitment team and has since then been hiring for the brightest technical minds to join the Google Cloud team. She's currently based in Singapore, focusing on growing the Cloud Technical teams in India",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/huangluisa/",
+      "twitter": ""
+    },
+    "sessionId": [1029],
+    "type":["Networking"],
+    "domain": ""
+  },
+  {
+    "id": "162",
+    "name": "Sudhakar Pantula",
+    "company": {
+      "designation": "Director",
+      "name": "Prospecta Technologies"
+    },
+    "image": "SudhakarPantula.jpg",
+    "bio": "Armed with a degree in Industrial Engineering and 30 years of experience in IT across a number of industries, he has great experience with start-ups, being responsible for many successful start-ups. He has over a decade of experience in designing and building enterprise solutions while also designing customized software to meet specific needs of the industry. He has a wide range of technical and solution architecture skills and is experienced in technologies like Java/J2EE, .Net, C#, Visual Basic, Web Methods, SAP ECC6, SAP PI, PHP, MySQL, Oracle, Sybase, Informix, MS SQL, GIS etc. He has experience of working in industry sectors like Petroleum, Heavy Industries, Oil & Gas, Steel, Mining, Banking, Insurance, Power, Travel and has been working on EHS system implementations for the last decade, taking him to countries like USA, UAE, Australia, Germany, Thailand and Singapore.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/sudhakar-pantula/",
+      "twitter": "https://twitter.com/spantula"
+    },
+    "sessionId": [1029],
+    "type":["Networking"],
+    "domain": ""
+  },
+  {
+    "id": "163",
+    "name": "Stita Misra",
+    "company": {
+      "designation": "Senior Manager, Talent Acquisition",
+      "name": "VMWare"
+    },
+    "image": "StitaMisra.jpg",
+    "bio": "A Passionate Talent Acquisition leader, who believes in challenging the status quo & raising the bar. Thrives in dynamic & high pressure scenarios, & values striving for excellence with integrity. Making the most out of every role & opportunity that has come her way, She had led the initiative of setting up real-time automated TA reports & analytics on Power-BI while working as a Recruiter & Talent Analytics specialist in Infosys, co-conceptualized, created & delivered multiple trainings on TA best-practices at VMware across businesses, & more recently led D&I projects centered around recruitment. Currently, She leads a team of 14 recruiters & the hiring for Customer & Business Operations at VMware. Having played individual contributor roles for a significant portion of her career so far, She is quite enjoying the stimulating & dynamic role of a manager, & learning the ropes as an aspiring leader.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/stitamisra/",
+      "twitter": "https://twitter.com/StitaMisra"
+    },
+    "sessionId": [1029],
+    "type":["Networking"],
+    "domain": ""
+  },
+  {
+    "id": "164",
+    "name": "Arsh Bhatia",
+    "company": {
+      "designation": "Lead Hiring Operations",
+      "name": "Turing"
+    },
+    "image": "Arsh.jpg",
+    "bio": "With a background in being a consultant and human resources professional. Arsh has facilitated in hiring diverse talent (IVY League, Big 4, Fortune 500) to achieve its goals in talent acquisition. Currently, working as Hiring Operations Lead for Turing, he is riding the wave of connecting great talent with remote opportunities globally. Arsh has had the opportunity of working with a New York-based hedge fund, DE Shaw, and supported them in their recruitment activities. Arsh has worked with various startups and managed projects which have helped in supporting and enhancing the training of the new human assets.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/arsh-bhatia-3a3150111",
+      "twitter": ""
+    },
+    "sessionId": [1029],
+    "type":["Networking"],
+    "domain": ""
+  },
+  {
+    "id": "165",
+    "name": "Mohini Palchowdhury",
+    "company": {
+      "designation": "Head of HR ( India, UK, Netherlands)",
+      "name": "Quantiphi"
+    },
+    "image": "MohiniPalchowdhury.jpg",
+    "bio": "10 years of experience in creating HR Functions group up, Innovative processes, HR Project Management, HR Systems, Performance Appraisal, Policy and Procedure Development, HR Compliance Management, Internal Job Postings and Business Partner",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/mohini-palchowdhury-83621295/",
+      "twitter": ""
+    },
+    "sessionId": [1029],
+    "type":["Networking"],
+    "domain": ""
+  }
+]
